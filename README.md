@@ -101,6 +101,8 @@ public class StringBuilder {
 
 ### Então temos o String builder que tem uma sintaxe um pouco diferente:
 
+```text id="n0s9ci"
+
 public class StringBuilder {
 
 	public static void main(String[] args) {
@@ -133,6 +135,8 @@ public class StringBuilder {
 ### Já o StringBuffer ele é mais para uso em ambientes especificos que demandam uma alta adição em strings ou variaveis e pode perder feio para o StringBuilder em ambientes improprios ao uso dele.
 
 ### Ele tem a mesma sintaxe do string builder mas deve ser usado em ocasiões diferentes:
+
+```text id="n0s9ci"
 
 
 public class StringBuilder {
