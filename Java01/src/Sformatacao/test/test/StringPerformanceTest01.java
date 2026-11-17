@@ -1,4 +1,4 @@
-package String.test;
+package Sformatacao.test.test;
 
 public class StringPerformanceTest01 {
     public static void main(String[] args) {
